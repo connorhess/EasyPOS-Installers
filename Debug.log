@@ -1,0 +1,40 @@
+22:37:21: Socket IP:129.232.219.82
+22:37:23: My IP:154.117.155.3
+22:37:24: Different
+22:37:24: 10:5b:ad:18:34:fd
+22:37:40: generated new fontManager
+22:37:43: Base URL: http://node-s.co.za 
+22:37:43: <class 'str'>
+22:37:43: 22:37
+22:37:43: 01/10/2020
+22:37:43: 729476619
+22:37:44: Found existing user
+22:37:44: No setup had to be done
+22:37:44: Online
+22:37:44: Exception: Expecting value: line 4 column 1 (char 3) 
+22:37:44: The license does not work1:
+22:37:58: ================================================================================
+01-10-2020 22:37:45
+Error-0003: product_key is not on our system
+Code: 00002
+-------------------------------------------------------
+Debug: Location #002
+-------------------------------------------------------
+Please Note that the following errors could show up if you are Offline(No Internet Connection)! [#0004|#0102]
+
+You Are Currently: Online
+23:43:32: Socket IP:129.232.219.82
+23:43:33: My IP:160.226.132.8
+23:43:35: Different
+23:43:35: 10:5b:ad:18:34:fd
+23:43:40: generated new fontManager
+23:43:41: Base URL: http://node-s.co.za 
+23:43:41: <class 'str'>
+23:43:41: 23:43
+23:43:41: 02/10/2020
+23:43:41: 653545512
+23:43:41: Found existing user
+23:43:41: No setup had to be done
+23:43:41: Online
+23:43:41: Exception: Expecting value: line 4 column 1 (char 3) 
+23:43:41: The license is valid!1
